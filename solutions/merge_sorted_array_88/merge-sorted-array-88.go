@@ -1,6 +1,4 @@
-package main
-
-import "fmt"
+package merge_sorted_array_88
 
 func merge(nums1 []int, m int, nums2 []int, n int) []int {
 
@@ -22,14 +20,4 @@ func merge(nums1 []int, m int, nums2 []int, n int) []int {
 		}
 	}
 	return nums1
-}
-
-func main() {
-	nums1 := []int{2, 0}
-	nums2 := []int{1}
-	m := 1
-	n := 1
-
-	res := merge(nums1, m, nums2, n)
-	fmt.Println(res)
 }
