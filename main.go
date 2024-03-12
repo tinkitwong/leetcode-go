@@ -1,9 +1,9 @@
 package main
 
 import (
-	"leetcode-go/solutions/remove_element_27"
+	"leetcode-go/valid_palindrome"
 )
 
 func main() {
-	remove_element_27.Run()
+	valid_palindrome.Run()
 }
