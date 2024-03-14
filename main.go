@@ -1,9 +1,9 @@
 package main
 
 import (
-	"leetcode-go/solutions/is_subsequence_392"
+	"leetcode-go/solutions/ransom_note_383"
 )
 
 func main() {
-	is_subsequence_392.Run()
+	ransom_note_383.Run()
 }
