@@ -1,9 +1,9 @@
 package main
 
 import (
-	"leetcode-go/valid_palindrome"
+	"leetcode-go/solutions/is_subsequence_392"
 )
 
 func main() {
-	valid_palindrome.Run()
+	is_subsequence_392.Run()
 }
