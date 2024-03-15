@@ -1,9 +1,9 @@
 package main
 
 import (
-	"leetcode-go/solutions/ransom_note_383"
+	"leetcode-go/solutions/isomorphic_strings_205"
 )
 
 func main() {
-	ransom_note_383.Run()
+	isomorphic_strings_205.Run()
 }
