@@ -1,9 +1,9 @@
 package main
 
 import (
-	"leetcode-go/solutions/valid_parenthesis_20"
+	"leetcode-go/solutions/linked_list_cycle_141"
 )
 
 func main() {
-	valid_parenthesis_20.Run()
+	linked_list_cycle_141.Run()
 }
