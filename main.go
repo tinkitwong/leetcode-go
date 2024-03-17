@@ -1,9 +1,9 @@
 package main
 
 import (
-	"leetcode-go/solutions/summary_ranges_228"
+	"leetcode-go/solutions/valid_parenthesis_20"
 )
 
 func main() {
-	summary_ranges_228.Run()
+	valid_parenthesis_20.Run()
 }
