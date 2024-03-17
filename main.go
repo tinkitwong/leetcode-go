@@ -1,9 +1,9 @@
 package main
 
 import (
-	"leetcode-go/solutions/isomorphic_strings_205"
+	"leetcode-go/solutions/summary_ranges_228"
 )
 
 func main() {
-	isomorphic_strings_205.Run()
+	summary_ranges_228.Run()
 }
