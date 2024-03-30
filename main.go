@@ -1,9 +1,9 @@
 package main
 
 import (
-	"leetcode-go/solutions/linked_list_cycle_141"
+	"leetcode-go/solutions/merge_two_sorted_lists_21"
 )
 
 func main() {
-	linked_list_cycle_141.Run()
+	merge_two_sorted_lists_21.Run()
 }
