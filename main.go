@@ -1,9 +1,9 @@
 package main
 
 import (
-	"leetcode-go/solutions/merge_two_sorted_lists_21"
+	"leetcode-go/solutions/max_depth_of_binary_tree_104"
 )
 
 func main() {
-	merge_two_sorted_lists_21.Run()
+	max_depth_of_binary_tree_104.Run()
 }
