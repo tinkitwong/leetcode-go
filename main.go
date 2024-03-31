@@ -1,9 +1,9 @@
 package main
 
 import (
-	"leetcode-go/solutions/max_depth_of_binary_tree_104"
+	"leetcode-go/solutions/same_tree_100"
 )
 
 func main() {
-	max_depth_of_binary_tree_104.Run()
+	same_tree_100.Run()
 }
