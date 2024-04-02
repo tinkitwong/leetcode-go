@@ -1,9 +1,9 @@
 package main
 
 import (
-	"leetcode-go/solutions/same_tree_100"
+	"leetcode-go/solutions/average_of_levels_in_binary_tree_637"
 )
 
 func main() {
-	same_tree_100.Run()
+	average_of_levels_in_binary_tree_637.Run()
 }
