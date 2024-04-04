@@ -1,9 +1,9 @@
 package main
 
 import (
-	"leetcode-go/solutions/average_of_levels_in_binary_tree_637"
+	"leetcode-go/solutions/minimum_absolute_difference_in_bst_530"
 )
 
 func main() {
-	average_of_levels_in_binary_tree_637.Run()
+	minimum_absolute_difference_in_bst_530.Run()
 }
