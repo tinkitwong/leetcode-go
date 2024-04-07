@@ -1,9 +1,9 @@
 package main
 
 import (
-	"leetcode-go/solutions/search_insert_position_35"
+	"leetcode-go/solutions/add_palindrome_9"
 )
 
 func main() {
-	search_insert_position_35.Run()
+	add_palindrome_9.Run()
 }
