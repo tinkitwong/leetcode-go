@@ -1,9 +1,9 @@
 package main
 
 import (
-	"leetcode-go/solutions/convert_sorted_array_to_bst_108"
+	"leetcode-go/solutions/search_insert_position_35"
 )
 
 func main() {
-	convert_sorted_array_to_bst_108.Run()
+	search_insert_position_35.Run()
 }
