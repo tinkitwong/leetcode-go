@@ -1,9 +1,9 @@
 package main
 
 import (
-	"leetcode-go/solutions/minimum_absolute_difference_in_bst_530"
+	"leetcode-go/solutions/convert_sorted_array_to_bst_108"
 )
 
 func main() {
-	minimum_absolute_difference_in_bst_530.Run()
+	convert_sorted_array_to_bst_108.Run()
 }
