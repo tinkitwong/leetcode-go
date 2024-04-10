@@ -2,11 +2,6 @@ package plus_one_66
 
 import "fmt"
 
-// 123
-// 124
-
-// 129
-// 130
 func plusOne(digits []int) []int {
 	carryover := 0
 	digits[len(digits)-1]++
@@ -25,5 +20,4 @@ func plusOne(digits []int) []int {
 	}
 
 	return digits
-
 }
