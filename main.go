@@ -1,9 +1,9 @@
 package main
 
 import (
-	"leetcode-go/solutions/plus_one_66"
+	"leetcode-go/solutions/climbing_stairs_70"
 )
 
 func main() {
-	plus_one_66.Run()
+	climbing_stairs_70.Run()
 }
