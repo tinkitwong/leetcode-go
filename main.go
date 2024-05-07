@@ -1,9 +1,9 @@
 package main
 
 import (
-	"leetcode-go/solutions/climbing_stairs_70"
+	"leetcode-go/solutions/remove_duplicates_from_sorted_array_26"
 )
 
 func main() {
-	climbing_stairs_70.Run()
+	remove_duplicates_from_sorted_array_26.Run()
 }
